@@ -1,0 +1,8 @@
+aadhaar:
+  encrypted: true
+
+email:
+  allow_plaintext: false
+
+logs:
+  contains_sensitive_data: false
